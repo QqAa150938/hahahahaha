@@ -2,7 +2,7 @@
 
 The implementation of the paper **[Hypersphere memory preservation network: a domain-incremental learning method for open-circuit fault diagnosis in power converters](PAPER_LINK)**.
 
-> Replace `PAPER_LINK` with the official paper/DOI link after publication.
+>  After publication, `PAPER_LINK` will be replaced with the official paper/DOI link.
 
 ## Updating!
 
