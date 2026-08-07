@@ -45,6 +45,7 @@ Yang Yu<sup>a</sup>, Quan Qian<sup>a,*</sup>, Jianghong Zhou<sup>b</sup>, Fan Wu
 **Paper link:** [To be updated](PAPER_LINK)
 
 ---
+<img width="731" height="556" alt="6826e02f6670601888024ccbaa46dc2b" src="https://github.com/user-attachments/assets/917e65b4-5f6e-4792-a1c8-7559d9075aa9" />
 
 ## HMPN
 
